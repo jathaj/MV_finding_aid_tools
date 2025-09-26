@@ -122,6 +122,8 @@ def process_file():
                                         <h3>Scope and Contents: <span class='interior'>{scopecontent}</span></h3>\n \
                                         <h3>Subjects and Indexing Terms: <span class='interior'>{index_terms}</span></h3>\n \
                                         <h3>Significance: <span class='interior'>{abstract}</span></h3>\n \
+                                        <h3>Archivist: <span class='interior'>{author}</span></h3>\n \
+                                        <h3>Finding Aid Created: <span class='interior'>{eventdatetime}</span></h3>\n \
                                         <hr>\n \
                                         <h2>Administrative Details</h2>\n \
                                         <h3>Ownership: <span class='interior'>{custodhist}</span></h3>\n \
